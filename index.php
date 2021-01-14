@@ -9,6 +9,8 @@ require_once('vendor/autoload.php');
 
 //Create an instance of the Base class
 $f3 = Base::instance();
+$f3 = new Base();
+$f3->set('DEBUG', 3);
 
 //Run fat free
 $f3->run();
