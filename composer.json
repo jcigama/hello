@@ -1,0 +1,12 @@
+{
+  "name": "jigama2/328/hello",
+  "authors": [
+    {
+      "name": "Joseph Igama",
+      "email": "tostrander@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
